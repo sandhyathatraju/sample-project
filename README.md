@@ -1,2 +1,2 @@
 # sample-project
-This is an example for git and git-hub
+This is an example for git and git-hub.
